@@ -1,0 +1,199 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #000000;
+    font-family: 'Times New Roman', 'Times New Roman', 'Times New Roman', 'Times New Roman', Times New Roman, Times New Roman, Times New Roman;
+    font-size: 1.1em;
+}
+
+nav {
+    background-color: #37072c;
+}
+
+    nav ul {
+        list-style-type: none;
+        padding: 0 2em;
+        overflow:hidden;
+        width: 1000px;
+    }
+
+nav ul li {
+    float: left;
+    padding: 10px 10px;
+    margin-left: 7px;
+}
+
+    nav ul li a {
+        color: #e6ecf2;
+        text-decoration: none;
+        word-spacing:normal;
+    }
+
+nav ul li a:visited {
+    color: #ffffff;
+}
+
+ul a:hover, ul a:focus,ul selected a {
+    color: #37072c;
+    background-color: #cccccc;
+}
+
+li:first-child {
+    border-left: none;
+}
+.titulo
+ {
+    padding: 30px 30px 30px 13px;
+    font-size: 26px;
+    background: -webkit-linear-gradient(left, top red, black);
+    background: linear-gradient(to bottom right, red,black);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+}
+
+.imagen1{
+    height: 602px;
+    width: 1200px;
+}
+
+.imagen2{
+    height: 602px;
+    width: 1200px;
+}
+.imagen3{
+    height: 602px;
+    width: 1200px;
+}
+
+footer{
+
+    max-width: 2500px;
+    max-height: 200px;
+    background-color: #37072c;
+    margin: 0 auto;
+}
+
+.imagen4{
+    height: 125px;
+    width:  125px;
+}
+.imagen5{
+    height: 125px;
+    width:  125px;
+}
+
+.imagen6{
+    
+    height: 80px;
+    width:  80px;
+}
+
+.imagen7{
+    height: 125px;
+    width:  138px;
+}
+
+.imagen8{
+    height: 125px;
+    width:  125px;
+}
+.imagenesfooter{
+    padding: 5ex 2ex 2ex 40ex;
+}
+
+.tablaConsolas{
+    width:1200px;
+    height: 1200px;
+    align-content: center;   
+  
+}
+
+
+.imagen1ps{
+    padding: 10px 10px 10px 10px;
+
+    height:200px;
+    width: 300px;
+}
+
+.imagen2ps{
+
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen3ps{
+
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 250px;
+}
+
+.imagen4ps{
+
+    padding: 10px 10px 10px 10px;
+    height:400px;
+    width: 400px;
+}
+
+.imagen5ps{
+    
+    padding: 10px 10px 10px 10px;
+    height:400px;
+    width: 400px;
+}
+
+.imagen1xbox{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen2xbox{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen3xbox{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen4xbox{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen1nintendo{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen2nintendo{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen3nintendo{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen4nintendo{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
+
+.imagen5nintendo{
+    padding: 10px 10px 10px 10px;
+    height:200px;
+    width: 300px;
+}
